@@ -1,0 +1,2 @@
+# Bug-Bounty-Hunting-The-Superhero-s-Guide-to-Hacking-the-Digital-World
+Bug Bounty Hunting: The Superhero’s Guide to Hacking the Digital World  is your go-to guide for diving into ethical hacking. Learn the basics of web security, master the OWASP Top 10 vulnerabilities, and discover powerful tools like Burp Suite and Nmap. With a mix of humor and expert tips, you’ll be ready to hunt bugs, earn rewards,
